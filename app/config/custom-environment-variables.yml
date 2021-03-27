@@ -1,0 +1,15 @@
+app:
+  name: APP_NAME
+  port: APP_PORT
+
+log:
+  level: LOG_LEVEL
+
+mailer:
+  transport:
+    host: MAILER_HOST
+    port: MAILER_PORT
+    secure: MAILER_SECURE
+    auth:
+      user: MAILER_AUTH_USER
+      pass: MAILER_AUTH_PASS

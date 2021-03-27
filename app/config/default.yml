@@ -1,0 +1,11 @@
+app:
+  name: Auth API
+  port: 9000
+
+log:
+  level: error
+
+mailer:
+  silent: false
+  # devPort: 1025
+  # smtpPort: 2525
